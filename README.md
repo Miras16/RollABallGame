@@ -1,7 +1,7 @@
 # RollABallGame
  This project is a simple and fun game built using Unity, where the player controls a ball to collect a coins.
  
- https://connect-prd-cdn.unity.com/20200716/learn/images/b7964159-e07f-45d4-bffb-953c7f3c9109_Project_introduction.png
+ ![b7964159-e07f-45d4-bffb-953c7f3c9109_Project_introduction](https://github.com/Miras16/RollABallGame/assets/90964593/7a52afe1-31ad-454b-abf4-a638341e4a36)
 
 Game Objective
 The objective of the game is to control the ball using the arrow keys or WASD keys (or any other preferred control scheme) and navigate it through a 3D environment. The player must collect all the coins scattered throughout the level while avoiding obstacles.
