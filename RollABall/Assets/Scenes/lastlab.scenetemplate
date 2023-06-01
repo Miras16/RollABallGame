@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: lastlab
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 18a37bbc1a21b4243bc07bb9dcf86122, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: 854450e0467814744b73553f2f7b9a0e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: af60f79b34148dc4eb6d5a71d967b48a, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 4a35dc74e88c1c44a95a858990369b90, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 448ab754973249c44a18145a7aaf26de, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
